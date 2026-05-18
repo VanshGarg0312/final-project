@@ -1,0 +1,2 @@
+timestamp,text,predicted_label,correct_label
+2026-05-08T10:40:06.096291,the world health organization released updated public health guidelines this week,FAKE,REAL
